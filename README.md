@@ -152,7 +152,7 @@ You have the right to request access to or deletion of any stored data associate
 If you have questions about these Terms, need to report abuse, or wish to request data deletion, please reach out:
 
 - **Bot Developer (Discord):** `@your_discord_username` *(replace with your Discord tag)*
-- **Support Server:** `https://discord.gg/your-invite` *(replace with your permanent invite link)*
+- **Support Server:** `https://discord.gg/DwDng6xGju` *(replace with your permanent invite link)*
 - **GitHub Issues:** Open an issue in this repository
 
 ---
